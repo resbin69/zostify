@@ -1,2 +1,0 @@
-# zostify
-footfall analytics app
